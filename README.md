@@ -30,4 +30,4 @@ conda install pybullet
 ## Assignment
 
 This is a minimal implementation of an MLP and a diffusion policy for imitation learning. This is not part of your assignments, but additional reading material to familiarize 
-you to state-of-the-art architectures used in imitation learning. To read about the theory of diffusion policy, you can refer to this paper \url{https://diffusion-policy.cs.columbia.edu/}
+you to state-of-the-art architectures used in imitation learning. To read about the theory of diffusion policy, you can refer to this paper: https://diffusion-policy.cs.columbia.edu/
