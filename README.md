@@ -1,7 +1,7 @@
 # diffusion_policy
 A simple implementaiton of diffusion policy for imitation learning
 
-Dylan Losey, Virginia Tech.
+Sagar Parekh, Virginia Tech.
 
 ## Install and Run
 
